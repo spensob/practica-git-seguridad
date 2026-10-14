@@ -1,0 +1,7 @@
+# Ignorar archivos de registro
+*.log
+# Ignorar variables de entorno
+.env
+.env.*
+# Excepciones opcionales para plantillas
+!.env.example	
